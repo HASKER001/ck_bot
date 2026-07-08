@@ -1,3 +1,4 @@
-vk-api
-apscheduler
-flask
+vk_api==11.9.9
+APScheduler==3.10.4
+Flask==3.0.0
+python-dotenv==1.0.0
